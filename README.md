@@ -1,5 +1,8 @@
 # richter
 
+project link
+https://www.drivendata.org/competitions/57/nepal-earthquake/
+
 Project Structure:
 
 src     - code 
