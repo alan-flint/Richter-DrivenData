@@ -2,7 +2,8 @@
 
 Project Structure:
 
-src     - code
+src     - code 
+          Jupyter Notebook name can start with initials to track of code easily.     
 
 input   - unprocessed downloaded input files or links
 
