@@ -1,0 +1,12 @@
+Ideas:
+
+1. Estimate where some geo_id is urban or rural by height_percentage -> Does not help
+2. Esimate the soil condition of geo_id using land_surface_condition
+3. Does discrepancy b/w ground floor type and other floor type tell us about something?? (interesting idea) -> does not help
+
+
+
+Current Best approach:
+1. Freq and tar encoding for geo features
+2. Remove the raw id and geo id features
+3. Then apply RF
