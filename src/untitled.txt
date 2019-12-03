@@ -4,7 +4,7 @@ Ideas:
 2. Esimate the soil condition of geo_id using land_surface_condition
 3. Does discrepancy b/w ground floor type and other floor type tell us about something?? (interesting idea) -> does not help
 4. If we try to tar encode all the categorical variables
-5. 
+5. Check if distribution of Damage grade per geo_id give something of the id.
 
 Current Best approach:
 1. Freq and tar encoding for geo features
