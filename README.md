@@ -3,7 +3,7 @@
 project link
 https://www.drivendata.org/competitions/57/nepal-earthquake/
 
-Rank = 50 out of ~ 1400 competitors.
+<b>Rank = 50</b> out of ~ 1400 competitors.
 
 Project Structure:
 
