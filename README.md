@@ -1,7 +1,6 @@
-# richter
+# Top 1% Data Science Model for Predicting Earth-Quake Damage
 
-project link
-https://www.drivendata.org/competitions/57/nepal-earthquake/
+Competition Site: https://www.drivendata.org/competitions/57/nepal-earthquake/
 
 <b>Rank = 50</b> out of ~ 1400 competitors.
 
