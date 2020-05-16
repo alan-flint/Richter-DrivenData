@@ -1,4 +1,4 @@
-# Top 3% Solution for Predicting Earthquake Damage
+# Top 4% Solution for Predicting Earthquake Damage
 
 Competition Site: https://www.drivendata.org/competitions/57/nepal-earthquake/
 
